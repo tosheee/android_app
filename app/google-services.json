@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "143520033523",
+    "firebase_url": "https://dictionary-58743.firebaseio.com",
+    "project_id": "dictionary-58743",
+    "storage_bucket": "dictionary-58743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143520033523:android:c7699c882cf4e12b",
+        "android_client_info": {
+          "package_name": "com.example.todorchakarov.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143520033523-vcjrvsl45plg9ii7m3de922jf59bkqlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todorchakarov.myapplication",
+            "certificate_hash": "83261795761eb197319c87ec0cb5453a07f26004"
+          }
+        },
+        {
+          "client_id": "143520033523-c641empr72229al1d0djoiq0vhj554rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVmpmbLXsu_0ac8jy4ZstXVgC0u5EmAmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143520033523-c641empr72229al1d0djoiq0vhj554rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
